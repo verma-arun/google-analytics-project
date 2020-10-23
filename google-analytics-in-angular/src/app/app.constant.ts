@@ -1,0 +1,1 @@
+export const GOOGLE_ANALYTICS_KEY = 'G-EF0LDC0M53';
